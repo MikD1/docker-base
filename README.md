@@ -1,2 +1,2 @@
-# docker-base
-Docker and docker-compose for services
+# Docker Base
+Docker and docker-compose files for services
